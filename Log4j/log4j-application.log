@@ -1,0 +1,545 @@
+2022-12-24 11:58:31 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 11:58:31 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 11:58:33 INFO  scenarios:22 - ***Test started***
+2022-12-24 11:59:00 INFO  scenarios:28 - ***Test finished***
+2022-12-24 13:35:03 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 13:35:03 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 13:35:06 INFO  scenarios:22 - ***Test started***
+2022-12-24 13:35:29 INFO  scenarios:28 - ***Test finished***
+2022-12-24 13:36:17 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 13:36:18 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 13:36:21 INFO  scenarios:22 - ***Test started***
+2022-12-24 13:36:52 INFO  scenarios:51 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 13:36:52 INFO  scenarios:28 - ***Test finished***
+2022-12-24 13:48:36 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 13:48:36 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 13:48:38 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 13:49:37 INFO  scenarios:51 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 13:49:37 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 13:50:07 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 13:50:07 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 13:50:09 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 13:50:34 INFO  scenarios:51 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 13:50:34 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 13:53:48 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 13:53:48 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 13:53:50 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 13:54:15 INFO  scenarios:51 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 13:54:15 INFO  scenarios:90 - 5bekleniyor.
+2022-12-24 13:54:20 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 13:56:22 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 13:56:22 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 13:56:25 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 13:56:59 INFO  scenarios:51 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 13:56:59 INFO  scenarios:90 - 5 saniye bekleniyor.
+2022-12-24 13:57:04 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 14:00:01 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 14:00:01 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 14:00:03 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 14:00:35 INFO  scenarios:51 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 14:00:35 INFO  scenarios:90 - 5 saniye bekleniyor.
+2022-12-24 14:00:40 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 14:01:11 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 14:01:11 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 14:01:14 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 14:01:47 INFO  scenarios:49 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 14:01:47 INFO  scenarios:88 - 5 saniye bekleniyor.
+2022-12-24 14:01:52 INFO  scenarios:88 - 5 saniye bekleniyor.
+2022-12-24 14:01:57 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 14:05:00 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 14:05:00 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 14:05:03 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 14:05:27 INFO  scenarios:49 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 14:05:27 INFO  scenarios:88 - 5 saniye bekleniyor.
+2022-12-24 14:05:35 INFO  scenarios:88 - 5 saniye bekleniyor.
+2022-12-24 14:05:40 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 14:23:33 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 14:23:34 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 14:23:37 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 14:24:09 INFO  scenarios:56 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 14:24:09 INFO  scenarios:103 - 5 saniye bekleniyor.
+2022-12-24 14:24:14 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 14:25:09 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 14:25:09 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 14:25:12 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 14:25:42 INFO  scenarios:56 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 14:25:42 INFO  scenarios:103 - 5 saniye bekleniyor.
+2022-12-24 14:25:48 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 14:35:11 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 14:35:11 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 14:35:15 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 14:35:51 INFO  scenarios:58 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 14:35:51 INFO  scenarios:105 - 5 saniye bekleniyor.
+2022-12-24 14:35:57 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 14:36:54 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 14:36:54 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 14:36:59 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 14:37:34 INFO  scenarios:58 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 14:37:34 INFO  scenarios:105 - 5 saniye bekleniyor.
+2022-12-24 14:37:42 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 14:38:24 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 14:38:24 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 14:38:28 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 14:39:04 INFO  scenarios:58 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 14:39:04 INFO  scenarios:105 - 5 saniye bekleniyor.
+2022-12-24 14:39:12 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 14:40:37 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 14:40:37 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 14:40:42 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 14:41:42 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 14:42:07 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 14:42:07 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 14:42:13 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 14:42:50 INFO  scenarios:58 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 14:42:50 INFO  scenarios:105 - 5 saniye bekleniyor.
+2022-12-24 14:42:56 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 14:47:21 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 14:47:21 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 14:47:31 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 14:48:12 INFO  scenarios:58 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 14:48:12 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 14:48:22 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 14:48:27 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 14:49:04 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 14:49:04 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 14:49:13 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 14:49:48 INFO  scenarios:58 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 14:49:48 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 14:49:54 INFO  scenarios:100 - 2 saniye bekleniyor.
+2022-12-24 14:49:58 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 14:50:03 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 14:50:30 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 14:50:30 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 14:50:41 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 14:51:20 INFO  scenarios:58 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 14:51:20 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 14:51:26 INFO  scenarios:100 - 2 saniye bekleniyor.
+2022-12-24 14:51:33 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 14:51:38 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 15:04:22 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 15:04:22 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 15:04:25 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 15:04:50 INFO  scenarios:58 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 15:04:50 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 15:04:55 INFO  scenarios:100 - 2 saniye bekleniyor.
+2022-12-24 15:04:59 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 15:05:04 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 15:05:49 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 15:05:49 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 15:05:52 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 15:06:17 INFO  scenarios:58 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 15:06:17 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 15:06:22 INFO  scenarios:100 - 2 saniye bekleniyor.
+2022-12-24 15:06:25 INFO  scenarios:100 - 1 saniye bekleniyor.
+2022-12-24 15:06:26 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 15:06:31 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 15:07:35 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 15:07:35 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 15:07:38 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 15:08:04 INFO  scenarios:58 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 15:08:04 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 15:08:09 INFO  scenarios:100 - 2 saniye bekleniyor.
+2022-12-24 15:08:13 INFO  scenarios:100 - 1 saniye bekleniyor.
+2022-12-24 15:08:14 INFO  scenarios:51 - By.cssSelector: div.input-wrapper > input elementine ENTER tuşu basıldı.
+2022-12-24 15:08:14 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 15:08:19 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 15:12:18 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 15:12:18 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 15:12:21 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 15:12:47 INFO  scenarios:58 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 15:12:47 INFO  scenarios:100 - 2 saniye bekleniyor.
+2022-12-24 15:12:50 INFO  scenarios:100 - 2 saniye bekleniyor.
+2022-12-24 15:12:54 INFO  scenarios:100 - 1 saniye bekleniyor.
+2022-12-24 15:12:55 INFO  scenarios:51 -  ENTER tuşuna tıklandı.
+2022-12-24 15:12:55 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 15:13:14 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 15:13:14 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 15:13:17 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 15:13:42 INFO  scenarios:58 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 15:13:42 INFO  scenarios:100 - 2 saniye bekleniyor.
+2022-12-24 15:13:44 INFO  scenarios:100 - 2 saniye bekleniyor.
+2022-12-24 15:13:48 INFO  scenarios:100 - 1 saniye bekleniyor.
+2022-12-24 15:13:49 INFO  scenarios:51 -  ENTER tuşuna tıklandı.
+2022-12-24 15:13:49 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 15:13:56 INFO  scenarios:100 - 5 saniye bekleniyor.
+2022-12-24 15:14:01 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 15:20:27 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 15:20:27 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 15:20:30 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 15:20:55 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 15:21:42 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 15:21:42 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 15:21:45 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 15:22:11 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 15:24:32 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 15:24:32 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 15:24:34 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 15:24:59 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 15:25:48 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 15:25:48 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 15:25:51 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 15:26:16 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 15:41:31 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 15:41:31 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 15:41:34 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 15:42:01 INFO  scenarios:68 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 15:42:01 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 15:42:03 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 15:42:08 INFO  scenarios:110 - 1 saniye bekleniyor.
+2022-12-24 15:42:09 INFO  scenarios:61 -  ENTER tuşuna tıklandı.
+2022-12-24 15:42:09 INFO  scenarios:110 - 5 saniye bekleniyor.
+2022-12-24 15:42:16 INFO  scenarios:110 - 5 saniye bekleniyor.
+2022-12-24 15:42:22 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 15:43:22 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 15:43:22 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 15:43:25 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 15:43:51 INFO  scenarios:68 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 15:43:51 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 15:43:54 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 15:43:58 INFO  scenarios:110 - 1 saniye bekleniyor.
+2022-12-24 15:43:59 INFO  scenarios:61 -  ENTER tuşuna tıklandı.
+2022-12-24 15:43:59 INFO  scenarios:110 - 5 saniye bekleniyor.
+2022-12-24 15:44:08 INFO  scenarios:110 - 5 saniye bekleniyor.
+2022-12-24 15:44:13 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 15:54:01 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 15:54:01 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 15:54:04 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 15:54:30 INFO  scenarios:68 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 15:54:30 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 15:54:33 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 15:54:37 INFO  scenarios:110 - 1 saniye bekleniyor.
+2022-12-24 15:54:38 INFO  scenarios:61 -  ENTER tuşuna tıklandı.
+2022-12-24 15:54:38 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 15:54:44 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 15:54:49 INFO  scenarios:110 - 5 saniye bekleniyor.
+2022-12-24 15:54:54 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:04:43 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:04:43 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:04:45 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:05:10 INFO  scenarios:68 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:05:10 INFO  scenarios:112 - 2 saniye bekleniyor.
+2022-12-24 16:05:13 INFO  scenarios:112 - 2 saniye bekleniyor.
+2022-12-24 16:05:17 INFO  scenarios:112 - 1 saniye bekleniyor.
+2022-12-24 16:05:18 INFO  scenarios:61 -  ENTER tuşuna tıklandı.
+2022-12-24 16:05:18 INFO  scenarios:112 - 2 saniye bekleniyor.
+2022-12-24 16:05:23 INFO  scenarios:112 - 2 saniye bekleniyor.
+2022-12-24 16:05:25 INFO  scenarios:83 - Ürün fiyatı: 1.899,00 TL
+2022-12-24 16:05:27 INFO  scenarios:112 - 2 saniye bekleniyor.
+2022-12-24 16:05:29 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:06:51 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:06:51 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:06:54 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:07:19 INFO  scenarios:68 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:07:19 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:07:22 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:07:26 INFO  scenarios:113 - 1 saniye bekleniyor.
+2022-12-24 16:07:27 INFO  scenarios:61 -  ENTER tuşuna tıklandı.
+2022-12-24 16:07:27 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:07:33 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:07:35 INFO  scenarios:83 - Ürün sayfasındaki fiyat: 2.599,00 TL
+2022-12-24 16:07:38 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:07:40 INFO  scenarios:88 - Ürünün sepetteki fiyatı: 2.599,00 TL
+2022-12-24 16:07:40 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:08:59 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:08:59 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:09:01 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:09:26 INFO  scenarios:68 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:09:26 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:09:28 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:09:31 INFO  scenarios:113 - 1 saniye bekleniyor.
+2022-12-24 16:09:33 INFO  scenarios:61 -  ENTER tuşuna tıklandı.
+2022-12-24 16:09:33 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:09:37 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:09:39 INFO  scenarios:83 - Ürün sayfasındaki fiyat: 999,00 TL
+2022-12-24 16:09:41 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:09:43 INFO  scenarios:88 - Ürünün sepetteki fiyatı: 999,00 TL
+2022-12-24 16:09:43 INFO  scenarios:113 - 5 saniye bekleniyor.
+2022-12-24 16:09:48 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:20:33 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:20:33 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:20:35 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:21:00 INFO  scenarios:68 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:21:00 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:21:02 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:21:05 INFO  scenarios:113 - 1 saniye bekleniyor.
+2022-12-24 16:21:06 INFO  scenarios:61 -  ENTER tuşuna tıklandı.
+2022-12-24 16:21:06 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:21:10 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:21:12 INFO  scenarios:83 - Ürün sayfasındaki fiyat: 949,00 TL
+2022-12-24 16:21:14 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:21:16 INFO  scenarios:88 - Ürünün sepetteki fiyatı: 949,00 TL
+2022-12-24 16:21:16 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:21:18 INFO  scenarios:113 - 5 saniye bekleniyor.
+2022-12-24 16:21:23 INFO  scenarios:113 - 5 saniye bekleniyor.
+2022-12-24 16:21:28 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:21:46 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:21:46 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:21:48 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:22:13 INFO  scenarios:68 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:22:13 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:22:15 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:22:18 INFO  scenarios:113 - 1 saniye bekleniyor.
+2022-12-24 16:22:19 INFO  scenarios:61 -  ENTER tuşuna tıklandı.
+2022-12-24 16:22:19 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:22:24 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:22:26 INFO  scenarios:83 - Ürün sayfasındaki fiyat: 699,00 TL
+2022-12-24 16:22:27 INFO  scenarios:113 - 2 saniye bekleniyor.
+2022-12-24 16:22:29 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:24:22 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:24:22 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:24:24 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:24:47 INFO  scenarios:68 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:24:47 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:24:50 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:24:53 INFO  scenarios:114 - 1 saniye bekleniyor.
+2022-12-24 16:24:54 INFO  scenarios:61 -  ENTER tuşuna tıklandı.
+2022-12-24 16:24:54 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:24:59 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:25:01 INFO  scenarios:83 - Ürün sayfasındaki fiyat: 999,00 TL
+2022-12-24 16:25:02 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:25:04 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:25:24 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:25:24 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:25:27 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:25:50 INFO  scenarios:68 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:25:50 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:25:52 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:25:55 INFO  scenarios:114 - 1 saniye bekleniyor.
+2022-12-24 16:25:57 INFO  scenarios:61 -  ENTER tuşuna tıklandı.
+2022-12-24 16:25:57 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:26:01 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:26:03 INFO  scenarios:83 - Ürün sayfasındaki fiyat: 999,00 TL
+2022-12-24 16:26:03 INFO  scenarios:114 - 5 saniye bekleniyor.
+2022-12-24 16:26:09 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:26:11 INFO  scenarios:88 - Ürünün sepetteki fiyatı: 999,00 TL
+2022-12-24 16:26:11 INFO  scenarios:93 - Ürün sayfasındaki fiyat ile sepet sayfasındaki fiyat eşittir.
+2022-12-24 16:26:11 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:26:13 INFO  scenarios:114 - 5 saniye bekleniyor.
+2022-12-24 16:26:18 INFO  scenarios:114 - 5 saniye bekleniyor.
+2022-12-24 16:26:24 INFO  scenarios:114 - 5 saniye bekleniyor.
+2022-12-24 16:26:29 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:29:59 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:30:00 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:30:02 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:30:27 INFO  scenarios:71 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:30:27 INFO  scenarios:117 - 2 saniye bekleniyor.
+2022-12-24 16:30:29 INFO  scenarios:117 - 2 saniye bekleniyor.
+2022-12-24 16:30:32 INFO  scenarios:117 - 1 saniye bekleniyor.
+2022-12-24 16:30:33 INFO  scenarios:64 -  ENTER tuşuna tıklandı.
+2022-12-24 16:30:33 INFO  scenarios:117 - 2 saniye bekleniyor.
+2022-12-24 16:30:38 INFO  scenarios:117 - 2 saniye bekleniyor.
+2022-12-24 16:31:10 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:31:10 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:31:13 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:31:37 INFO  scenarios:71 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:31:40 INFO  scenarios:64 -  ENTER tuşuna tıklandı.
+2022-12-24 16:31:40 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:32:06 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:32:06 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:32:08 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:32:32 INFO  scenarios:71 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:32:35 INFO  scenarios:117 - 1 saniye bekleniyor.
+2022-12-24 16:32:37 INFO  scenarios:64 -  ENTER tuşuna tıklandı.
+2022-12-24 16:32:37 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:33:22 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:33:22 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:33:24 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:33:48 INFO  scenarios:71 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:33:51 INFO  scenarios:117 - 3 saniye bekleniyor.
+2022-12-24 16:33:55 INFO  scenarios:117 - 3 saniye bekleniyor.
+2022-12-24 16:33:58 INFO  scenarios:64 -  ENTER tuşuna tıklandı.
+2022-12-24 16:33:58 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:34:17 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:34:17 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:34:20 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:34:45 INFO  scenarios:71 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:34:47 INFO  scenarios:117 - 2 saniye bekleniyor.
+2022-12-24 16:34:49 INFO  scenarios:117 - 2 saniye bekleniyor.
+2022-12-24 16:34:51 INFO  scenarios:117 - 2 saniye bekleniyor.
+2022-12-24 16:34:53 INFO  scenarios:64 -  ENTER tuşuna tıklandı.
+2022-12-24 16:34:53 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:36:29 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:36:29 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:36:31 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:36:56 INFO  scenarios:72 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:36:59 INFO  scenarios:118 - 2 saniye bekleniyor.
+2022-12-24 16:37:01 INFO  scenarios:118 - 2 saniye bekleniyor.
+2022-12-24 16:37:03 INFO  scenarios:118 - 2 saniye bekleniyor.
+2022-12-24 16:37:05 INFO  scenarios:65 -  ENTER tuşuna tıklandı.
+2022-12-24 16:37:05 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:37:26 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:37:26 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:37:28 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:37:52 INFO  scenarios:72 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:37:55 INFO  scenarios:118 - 3 saniye bekleniyor.
+2022-12-24 16:37:58 INFO  scenarios:118 - 3 saniye bekleniyor.
+2022-12-24 16:38:01 INFO  scenarios:118 - 3 saniye bekleniyor.
+2022-12-24 16:38:05 INFO  scenarios:65 -  ENTER tuşuna tıklandı.
+2022-12-24 16:38:05 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:40:52 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:40:52 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:40:54 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:41:19 INFO  scenarios:72 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:41:25 INFO  scenarios:119 - 2 saniye bekleniyor.
+2022-12-24 16:41:27 INFO  scenarios:119 - 2 saniye bekleniyor.
+2022-12-24 16:41:29 INFO  scenarios:119 - 2 saniye bekleniyor.
+2022-12-24 16:41:31 INFO  scenarios:65 -  ENTER tuşuna tıklandı.
+2022-12-24 16:41:38 INFO  scenarios:88 - Ürün sayfasındaki fiyat: 999,00 TL
+2022-12-24 16:42:44 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:42:44 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:42:47 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:43:13 INFO  scenarios:72 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:43:18 INFO  scenarios:119 - 2 saniye bekleniyor.
+2022-12-24 16:43:20 INFO  scenarios:119 - 2 saniye bekleniyor.
+2022-12-24 16:43:22 INFO  scenarios:119 - 2 saniye bekleniyor.
+2022-12-24 16:43:24 INFO  scenarios:65 -  ENTER tuşuna tıklandı.
+2022-12-24 16:43:32 INFO  scenarios:88 - Ürün sayfasındaki fiyat: 899,00 TL
+2022-12-24 16:43:34 INFO  scenarios:93 - Ürünün sepetteki fiyatı: 899,00 TL
+2022-12-24 16:43:34 INFO  scenarios:98 - Ürün sayfasındaki fiyat ile sepet sayfasındaki fiyat eşittir.
+2022-12-24 16:43:35 INFO  scenarios:119 - 5 saniye bekleniyor.
+2022-12-24 16:43:40 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:44:05 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:44:05 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:44:08 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:44:34 INFO  scenarios:72 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:44:39 INFO  scenarios:65 -  ENTER tuşuna tıklandı.
+2022-12-24 16:44:45 INFO  scenarios:88 - Ürün sayfasındaki fiyat: 2.399,00 TL
+2022-12-24 16:44:48 INFO  scenarios:93 - Ürünün sepetteki fiyatı: 2.399,00 TL
+2022-12-24 16:44:48 INFO  scenarios:98 - Ürün sayfasındaki fiyat ile sepet sayfasındaki fiyat eşittir.
+2022-12-24 16:45:49 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:46:02 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:46:02 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:46:05 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:46:30 INFO  scenarios:72 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:46:33 INFO  scenarios:65 -  ENTER tuşuna tıklandı.
+2022-12-24 16:46:57 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:46:57 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:46:59 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:47:28 INFO  scenarios:72 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:47:31 INFO  scenarios:119 - 2 saniye bekleniyor.
+2022-12-24 16:47:33 INFO  scenarios:119 - 2 saniye bekleniyor.
+2022-12-24 16:47:35 INFO  scenarios:119 - 2 saniye bekleniyor.
+2022-12-24 16:47:37 INFO  scenarios:65 -  ENTER tuşuna tıklandı.
+2022-12-24 16:48:22 INFO  scenarios:88 - Ürün sayfasındaki fiyat: 2.399,00 TL
+2022-12-24 16:48:29 INFO  scenarios:93 - Ürünün sepetteki fiyatı: 2.399,00 TL
+2022-12-24 16:48:29 INFO  scenarios:98 - Ürün sayfasındaki fiyat ile sepet sayfasındaki fiyat eşittir.
+2022-12-24 16:48:29 INFO  scenarios:119 - 5 saniye bekleniyor.
+2022-12-24 16:48:34 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:50:24 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:50:25 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:50:27 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:50:51 INFO  scenarios:72 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:50:54 INFO  scenarios:119 - 2 saniye bekleniyor.
+2022-12-24 16:50:57 INFO  scenarios:119 - 2 saniye bekleniyor.
+2022-12-24 16:50:59 INFO  scenarios:119 - 2 saniye bekleniyor.
+2022-12-24 16:51:01 INFO  scenarios:65 -  ENTER tuşuna tıklandı.
+2022-12-24 16:51:09 INFO  scenarios:88 - Ürün sayfasındaki fiyat: 269,00 TL
+2022-12-24 16:51:12 INFO  scenarios:93 - Ürünün sepetteki fiyatı: 269,00 TL
+2022-12-24 16:51:12 INFO  scenarios:98 - Ürün sayfasındaki fiyat ile sepet sayfasındaki fiyat eşittir.
+2022-12-24 16:51:12 INFO  scenarios:119 - 5 saniye bekleniyor.
+2022-12-24 16:51:17 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 16:58:01 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 16:58:01 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 16:58:03 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 16:58:29 INFO  scenarios:73 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 16:58:33 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:58:35 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:58:37 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 16:58:39 INFO  scenarios:66 -  ENTER tuşuna tıklandı.
+2022-12-24 16:58:47 INFO  scenarios:89 - Ürün sayfasındaki fiyat: 3.499,00 TL
+2022-12-24 16:58:49 INFO  scenarios:94 - Ürünün sepetteki fiyatı: 3.499,00 TL
+2022-12-24 16:58:49 INFO  scenarios:99 - Ürün sayfasındaki fiyat ile sepet sayfasındaki fiyat eşittir.
+2022-12-24 17:06:05 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 17:06:05 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 17:06:07 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 17:06:32 INFO  scenarios:69 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 17:06:34 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 17:06:36 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 17:06:39 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 17:06:41 INFO  scenarios:62 -  ENTER tuşuna tıklandı.
+2022-12-24 17:06:45 INFO  scenarios:85 - Ürün sayfasındaki fiyat: 999,00 TL
+2022-12-24 17:06:47 INFO  scenarios:90 - Ürünün sepetteki fiyatı: 999,00 TL
+2022-12-24 17:06:47 INFO  scenarios:95 - Ürün sayfasındaki fiyat ile sepet sayfasındaki fiyat eşittir.
+2022-12-24 17:06:48 INFO  scenarios:110 - 5 saniye bekleniyor.
+2022-12-24 17:06:53 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 17:09:22 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 17:09:22 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 17:09:24 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 17:09:49 INFO  scenarios:73 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 17:09:53 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 17:09:55 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 17:09:58 INFO  scenarios:114 - 2 saniye bekleniyor.
+2022-12-24 17:10:00 INFO  scenarios:66 -  ENTER tuşuna tıklandı.
+2022-12-24 17:10:05 INFO  scenarios:89 - Ürün sayfasındaki fiyat: 999,00 TL
+2022-12-24 17:10:08 INFO  scenarios:94 - Ürünün sepetteki fiyatı: 999,00 TL
+2022-12-24 17:10:08 INFO  scenarios:99 - Ürün sayfasındaki fiyat ile sepet sayfasındaki fiyat eşittir.
+2022-12-24 17:12:36 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 17:12:36 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 17:12:39 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 17:13:04 INFO  scenarios:79 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 17:13:08 INFO  scenarios:120 - 2 saniye bekleniyor.
+2022-12-24 17:13:10 INFO  scenarios:120 - 2 saniye bekleniyor.
+2022-12-24 17:13:12 INFO  scenarios:120 - 2 saniye bekleniyor.
+2022-12-24 17:13:14 INFO  scenarios:72 -  ENTER tuşuna tıklandı.
+2022-12-24 17:13:42 INFO  scenarios:95 - Ürün sayfasındaki fiyat: 2.499,00 TL
+2022-12-24 17:13:45 INFO  scenarios:100 - Ürünün sepetteki fiyatı: 2.499,00 TL
+2022-12-24 17:13:45 INFO  scenarios:105 - Ürün sayfasındaki fiyat ile sepet sayfasındaki fiyat eşittir.
+2022-12-24 17:14:45 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-24 20:56:08 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 20:56:08 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 20:56:11 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 20:56:35 INFO  scenarios:69 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 20:56:39 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 20:56:41 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 20:56:43 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 20:56:45 INFO  scenarios:62 -  ENTER tuşuna tıklandı.
+2022-12-24 21:05:27 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 21:05:27 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 21:05:30 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 21:05:54 INFO  scenarios:69 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 21:13:49 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 21:13:49 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 21:13:52 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-24 21:14:16 INFO  scenarios:69 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-24 21:14:19 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 21:14:21 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 21:14:23 INFO  scenarios:110 - 2 saniye bekleniyor.
+2022-12-24 21:14:25 INFO  scenarios:62 -  ENTER tuşuna tıklandı.
+2022-12-24 21:14:30 INFO  scenarios:85 - Ürün sayfasındaki fiyat: 2.399,00 TL
+2022-12-24 21:14:31 INFO  scenarios:90 - Ürünün sepetteki fiyatı: 2.399,00 TL
+2022-12-24 21:14:31 INFO  scenarios:95 - Ürün sayfasındaki fiyat ile sepet sayfasındaki fiyat eşittir.
+2022-12-24 21:14:32 INFO  scenarios:110 - 5 saniye bekleniyor.
+2022-12-24 21:14:37 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-25 20:49:58 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 20:49:58 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-25 20:50:01 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-25 20:50:25 INFO  scenarios:68 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-25 20:50:29 INFO  scenarios:108 - 2 saniye bekleniyor.
+2022-12-25 20:50:31 INFO  scenarios:108 - 2 saniye bekleniyor.
+2022-12-25 20:50:33 INFO  scenarios:108 - 2 saniye bekleniyor.
+2022-12-25 20:50:35 INFO  scenarios:61 -  ENTER tuşuna tıklandı.
+2022-12-25 20:50:41 INFO  scenarios:84 - Ürün sayfasındaki fiyat: 999,00 TL
+2022-12-25 20:50:44 INFO  scenarios:89 - Ürünün sepetteki fiyatı: 999,00 TL
+2022-12-25 20:50:44 INFO  scenarios:94 - Ürün sayfasındaki fiyat ile sepet sayfasındaki fiyat eşittir.
+2022-12-25 20:50:45 INFO  scenarios:108 - 5 saniye bekleniyor.
+2022-12-25 20:50:50 INFO  scenarios:28 - ***************************   Test finished   ***************************
+2022-12-25 21:11:05 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 21:11:05 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-25 21:11:07 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-25 21:11:32 INFO  scenarios:24 - Test için gidilen url: Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu
+2022-12-25 21:11:32 INFO  scenarios:68 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-25 21:11:42 INFO  scenarios:61 - ENTER tuşuna tıklandı.
+2022-12-25 21:11:49 INFO  scenarios:84 - Ürün sayfasındaki fiyat: 1.899,00 TL
+2022-12-25 21:11:51 INFO  scenarios:89 - Sepet sayfasındaki fiyat: 1.899,00 TL
+2022-12-25 21:11:51 INFO  scenarios:94 - Ürün sayfasındaki fiyat ile sepet sayfasındaki fiyat eşittir.
+2022-12-25 21:11:57 INFO  scenarios:29 - ***************************   Test finished   ***************************
+2022-12-25 21:15:43 INFO  WebDriverManager:1228 - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 21:15:43 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as C:\Users\EREN.BOZKURT\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-25 21:15:47 INFO  scenarios:22 - ***************************   Test started   ***************************
+2022-12-25 21:16:12 INFO  scenarios:24 - Test için gidilen url: Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu
+2022-12-25 21:16:13 INFO  scenarios:68 - Bulunduğumuz Url https://www.beymen.com/ değerini içermektedir.
+2022-12-25 21:16:25 INFO  scenarios:61 - ENTER tuşuna tıklandı.
+2022-12-25 21:16:32 INFO  scenarios:84 - Ürün sayfasındaki fiyat: 2.249,00 TL
+2022-12-25 21:16:35 INFO  scenarios:89 - Sepet sayfasındaki fiyat: 2.249,00 TL
+2022-12-25 21:16:35 INFO  scenarios:94 - Ürün sayfasındaki fiyat ile sepet sayfasındaki fiyat eşittir.
+2022-12-25 21:16:41 INFO  scenarios:29 - ***************************   Test finished   ***************************
